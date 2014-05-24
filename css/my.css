@@ -1,4 +1,12 @@
 .emojiBox {
-  margin: 0.5em;
+  margin: 1em;
   text-align: left;
+  font-family: monospace;
+}
+.content {
+  /* margin-top: 1em; */
+  padding: 0;
+}
+.main {
+  padding: 0;
 }
